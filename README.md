@@ -23,3 +23,6 @@ orangeCost("5");
 
 Thus, by changing the input (i.e., organgeCost("8")) and parameter (i.e., cost + 5), the function returns different outputs.  
 
+##### Reference
+Function notes: w3schoo.com <br>
+Code: codeacademy.com <br>
